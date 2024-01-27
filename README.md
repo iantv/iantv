@@ -1,5 +1,5 @@
 ### Hi! My name is Tatiana Ian
-###### Software Engineer with 5 years of job experience looking into development VR/AR in Unity.
+##### Software Engineer with 5 years of job experience looking into development VR/AR in Unity.
 
 📄 [Resume](https://docs.google.com/document/d/1Nw8Qt2MnEYbYv9vke5XXNKCfUncEBUlH33craluxIEY/edit?usp=sharing)
 
