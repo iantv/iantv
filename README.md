@@ -1,8 +1,6 @@
 ### Hi! My name is Tatiana Ian
 
-📄 [Resume](https://docs.google.com/document/d/1Nw8Qt2MnEYbYv9vke5XXNKCfUncEBUlH33craluxIEY/edit?usp=sharing)
-
-🌐 [LinkedIn](https://www.linkedin.com/in/iantv/)
+📄 [Resume](https://docs.google.com/document/d/1Nw8Qt2MnEYbYv9vke5XXNKCfUncEBUlH33craluxIEY/edit?usp=sharing)  🌐 [LinkedIn](https://www.linkedin.com/in/iantv/)
 
 
 
