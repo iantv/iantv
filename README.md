@@ -1,8 +1,7 @@
 ### Tatiana Ian
 
-📄 [CV](https://docs.google.com/document/d/1Nw8Qt2MnEYbYv9vke5XXNKCfUncEBUlH33craluxIEY/edit?usp=sharing) <br>
-🌐 [LinkedIn](https://www.linkedin.com/in/iantv/)
-
+LinkedIn: [@iantv](https://www.linkedin.com/in/iantv/) <br>
+Site: https://yantv.dev/
 
 
 
