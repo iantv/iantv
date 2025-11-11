@@ -1,7 +1,7 @@
 ### Tatiana Ian
 
 LinkedIn: [@iantv](https://www.linkedin.com/in/iantv/) <br>
-Site: https://yantv.dev/
+Site: https://yantv.dev/en
 
 
 
