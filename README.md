@@ -34,9 +34,9 @@ I build **innovative XR products and immersive experiences**. Experienced **XR /
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Dlib](https://img.shields.io/badge/Dlib-FF6F61?style=for-the-badge&logo=opencv&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![A-Frame](https://img.shields.io/badge/A--Frame-0055FF?style=for-the-badge)
 ![Gaussian Splatting](https://img.shields.io/badge/Gaussian_Splatting-FFAA00?style=for-the-badge)
 
 **XR Platforms**
