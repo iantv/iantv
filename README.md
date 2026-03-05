@@ -17,6 +17,8 @@ I build **innovative XR products and immersive experiences**. Experienced **XR /
 - **3D rendering & shader development** (GLSL / HLSL)  
 - **Real-time performance optimization**  
 - **Large-scale dataset processing for ML pipelines**
+
+---
   
 ### 🛠 Skills
 
