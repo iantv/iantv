@@ -26,7 +26,6 @@ I build **innovative XR products and immersive experiences**. Experienced **XR /
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools & Engines**
@@ -35,10 +34,8 @@ I build **innovative XR products and immersive experiences**. Experienced **XR /
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Dlib](https://img.shields.io/badge/Dlib-FF6F61?style=for-the-badge&logo=opencv&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL-005499?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![AR/VR](https://img.shields.io/badge/VR/AR-FF6F61?style=for-the-badge)
 ![A-Frame](https://img.shields.io/badge/A--Frame-0055FF?style=for-the-badge)
 ![Gaussian Splatting](https://img.shields.io/badge/Gaussian_Splatting-FFAA00?style=for-the-badge)
 
