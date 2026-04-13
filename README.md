@@ -1,4 +1,4 @@
-# AI / XR Software Engineer, Tech Lead | Gaussian Splatting, Avatars, VR, Computer Vision
+# AI / XR & CV Engineer, Tech Lead (Gaussian Splatting, 3D AI Avatars)
 
 **👋 Hi! I'm Tatiana**
 
