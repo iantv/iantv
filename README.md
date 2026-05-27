@@ -4,7 +4,7 @@
 
 I build **innovative XR products and immersive experiences**. Experienced **XR / AR / VR and Computer Vision engineer** with expertise in **C++**, real-time **ML / AR pipelines**, and **large-scale dataset management**. Focused on building high-performance solutions for **interactive and immersive applications**.
 
-[![Website](https://img.shields.io/badge/Website-000000?logo=globe&logoColor=white)](https://yantv.dev/en)
+[![Website](https://img.shields.io/badge/Website-000000?logo=globe&logoColor=white)](https://iantv.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/iantv)
 [![Email](https://img.shields.io/badge/Email-FF0000?logo=gmail&logoColor=white)](mailto:ian.tatiana.v@gmail.com)
 
